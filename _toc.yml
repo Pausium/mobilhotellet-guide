@@ -12,16 +12,7 @@ parts:
     numbered: false
     chapters:
       - file: pages/inspiration/beloenningkartotek
-  - caption: Information om testforløb
-    numbered: false
-    chapters:
-      - file: pages/testforloeb/test-forloeb
-      - file: pages/testforloeb/installation-af-mobilhotellet
-        sections:
-          - file: pages/testforloeb/til-android
-          - file: pages/testforloeb/til-ios
-          - file: pages/testforloeb/gmail
-  - caption: Userguides
+  - caption: Brugervejledninger
     numbered: false
     chapters:
       - file: pages/mobilhotellet-til-skoleadmin/mobilhotellet-til-skoleadmin
@@ -50,7 +41,7 @@ parts:
           - file: pages/mobilhotellet-til-elev/venner
           - file: pages/mobilhotellet-til-elev/din-profil
           - file: pages/mobilhotellet-til-elev/dine-indstillinger
-  - caption: Dokumenter
+  - caption: Øvrige dokumenter
     chapters:
       - file: pages/dokumenter/foraelder-vaerge-samtykke
       - file: pages/dokumenter/laereroprettelse

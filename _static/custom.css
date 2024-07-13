@@ -148,6 +148,12 @@ details[open]>summary::before {
   transform: rotate(90deg);
 }
 
+div.figure p.caption span.caption-number, figcaption span.caption-number {
+    display: none;
+}
+.card-body {
+    padding: 0rem !important;
+}
 
 
 /* ======================================= */
