@@ -155,6 +155,11 @@ div.figure p.caption span.caption-number, figcaption span.caption-number {
     padding: 0rem !important;
 }
 
+html[data-theme=dark] .bd-content img:not(.only-dark):not(.dark-light) {
+    background: none !important;
+    border-radius: .25rem;
+}
+
 
 /* ======================================= */
 /* ==========    Don't know     ========== */
