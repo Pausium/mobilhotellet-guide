@@ -1,11 +1,11 @@
 (til_foraelder)=
 # Indsamling af forælder/værge-samtykke
 
-Inden du indsamler samtykke fra forældre/værger til installering af Mobilhotellet på børnenes mobiltelefoner, så undersøg jeres skoles regler og retningslinjer på dette område. At Mobilhotellet installeres på børnenes mobiltelefoner er i fuld forlængelse af politikken Bring Your Own Device (BYOD).
+Inden du indsamler samtykke fra forældre/værger til installering af Mobilhotellet på børnenes mobiltelefoner, så undersøg jeres skoles regler og retningslinjer på dette område. At Mobilhotellet installeres på børnenes mobiltelefoner er i fuld forlængelse af politikken <a href="https://www.skole-foraeldre.dk/byod">Bring Your Own Device (BYOD)</a>.
 
 Hvis jeres skole ønsker at få et skriftligt samtykke til installering af Mobilhotellet på børnenes mobiltelefoner fra forældre/værger, så kan du benytte dig af nedenstående blanket lavet med Google Analyse. Du anmoder om adgang til blanketten gennem din mail. Vi anbefaler, at du bruger din arbejdsmail. 
 
-<center> <a href="https://docs.google.com/forms/d/1kIC_NKol-xHzi9wmcKmTjdfBuJJMbqLXEx5klpkcFxQ">Anmod om adgang til blanketten</a>.</center><br>
+<center> <a href="https://docs.google.com/forms/d/1kIC_NKol-xHzi9wmcKmTjdfBuJJMbqLXEx5klpkcFxQ">Anmod om adgang til blanketten</a></center><br>
 
 Når du har fået adgang til blanketten, kopierer du den over på din egen Google-konto. På den måde sikrer du dig, at vi bag Mobilhotellet ikke får de indsamlede oplysninger. Dernæst retter du i blanket-teksten fra **[SKOLE]** til din skoles navn. 
 
