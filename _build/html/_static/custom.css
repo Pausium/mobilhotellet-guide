@@ -64,6 +64,19 @@ a.headerlink {
 a:visited:hover {
     color: var(--animat-color-primary);
 }
+.prev-next-area a p.prev-next-title:hover {
+    color: var(--animat-color-primary);
+}
+.prev-next-area a p.prev-next-title:active, .prev-next-area a p.prev-next-title:visited {
+    color: var(--animat-color-primary);
+}
+.prev-next-area a:hover p.prev-next-title:hover {
+    color: var(--animat-color-primary);
+}
+
+.toc-entry a.nav-link.active:hover {
+    color: var(--animat-color-primary);
+}
 
 /* Back to the top */
 #pst-back-to-top {
@@ -88,6 +101,7 @@ a:active, a:visited {
     color: var(--animat-color-primary);
 }
 
+
 /* Notebook blocks */
 .cell_output .output.stderr {
     display: none;
@@ -95,11 +109,32 @@ a:active, a:visited {
 div.cell_input>div, div.cell_output div.output>div.highlight {
     display: none;
 }
+div.highlight pre, table.highlighttable pre {
+    display: none;
+}
+div.cell div.cell_input, div.cell details.above-input>summary {
+    display: none;
+}
+
+/* IPython cell outputs */
+.docutils.container {
+    text-align: center;
+}
+
 
 /* Prevent download gif */
 /* https://stackoverflow.com/questions/21110130/protect-image-download */
 img {
     pointer-events: none;
+}
+
+/* Videos */
+element.style {
+    max-width: 100%;
+}
+
+html[data-theme=dark] .bd-content div.cell_output .text_html, html[data-theme=dark] .bd-content div.cell_output img {
+    background-color: var(--pst-color-background);
 }
 
 
@@ -148,17 +183,15 @@ details[open]>summary::before {
   transform: rotate(90deg);
 }
 
-div.figure p.caption span.caption-number, figcaption span.caption-number {
-    display: none;
-}
-.card-body {
-    padding: 0rem !important;
+/* Geogebra iframe */
+iframe {    
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1;
+    border-radius: 4px;
+    background-color: transparent; 
 }
 
-html[data-theme=dark] .bd-content img:not(.only-dark):not(.dark-light) {
-    background: none !important;
-    border-radius: .25rem;
-}
 
 
 /* ======================================= */
@@ -177,6 +210,5 @@ button.toggle-button {
 div.exercise p.admonition-title::before {
   color: rgb(51, 51, 51);
 }
-
 
 

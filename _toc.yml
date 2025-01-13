@@ -29,9 +29,10 @@ parts:
           - file: pages/mobilhotellet-til-laerer/vaelg-klasse
           - file: pages/mobilhotellet-til-laerer/ind-og-udtjekkede-elever
           - file: pages/mobilhotellet-til-laerer/beloenninger
+          - file: pages/mobilhotellet-til-laerer/tillad-mobilbrug
           - file: pages/mobilhotellet-til-laerer/statistik
           - file: pages/mobilhotellet-til-laerer/aendre-klassens-navn
-          - file: pages/mobilhotellet-til-v/aendre-elevs-navn-kode-og-klasse
+          - file: pages/mobilhotellet-til-laerer/aendre-elevs-navn-kode-og-klasse
       - file: pages/mobilhotellet-til-elev/mobilhotellet-til-elev
         sections:
           - file: pages/mobilhotellet-til-elev/til-vaerge-foraelder
