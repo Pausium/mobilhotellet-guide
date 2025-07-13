@@ -22,7 +22,7 @@ Disse data bruges til at optimere brugeroplevelsen, administrere adgang, følge 
 
 ## Sikkerhed og privathed
 
-Alle indsamlede data behandles i overensstemmelse med gældende lovgivning og opbevares kun så længe, det er nødvendigt for at opfylde de indsamlede formål. Elevdata er udelukkende tilgængelige for den tilknyttede skole og deles ikke med tredjeparter.
+Alle indsamlede data behandles i overensstemmelse med gældende lovgivning og opbevares kun så længe, det er nødvendigt for at opfylde de indsamlede formål. Elevdata er udelukkende tilgængelige for den tilknyttede skole og deles ikke med tredjeparter. Læs mere i vores privatlivspolitik på [mobilhotellet.dk](https://mobilhotellet.dk).
 
 
 ## En sund dialog om ansvarlig mobilbrug
