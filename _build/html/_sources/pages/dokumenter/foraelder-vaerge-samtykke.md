@@ -1,7 +1,9 @@
 (til_foraelder)=
 # Indsamling af forælder/værge-samtykke
 
-Inden du indsamler samtykke fra forældre/værger til installering af Mobilhotellet på børnenes mobiltelefoner, så undersøg jeres skoles regler og retningslinjer på dette område. At Mobilhotellet installeres på børnenes mobiltelefoner er i fuld forlængelse af politikken <a href="https://www.skole-foraeldre.dk/byod">Bring Your Own Device (BYOD)</a>.
+Inden jeres skole indsamler samtykke fra forældre eller værger til brug af Mobilhotellet på elevernes mobiltelefoner, anbefaler vi, at I undersøger jeres skoles egne regler og retningslinjer på området. Brug af Mobilhotellet sker som en del af jeres skoles valg om at anvende løsningen og falder under principperne for <a href="https://www.skole-foraeldre.dk/byod">Bring Your Own Device (BYOD)</a>.
+
+Det er jeres skoles ansvar at vurdere, om brugen af Mobilhotellet kræver samtykke fra forældre/værger. Ofte kan brugen ske som en del af jeres skoles almindelige drift, men I kan vælge at indhente samtykke som en ekstra sikkerhed, især når appen installeres på elevernes egne mobiltelefoner.
 
 Hvis jeres skole ønsker at få et skriftligt samtykke til installering af Mobilhotellet på børnenes mobiltelefoner fra forældre/værger, så kan du benytte dig af nedenstående blanket:
 
@@ -33,6 +35,15 @@ Med venlig hilsen, <br>
 **[NAVN]**
 
 ````
+
+## Vigtigt om samtykke
+Det er vigtigt at være opmærksom på, at det ikke automatisk er nødvendigt for skolen at indhente samtykke fra forældre eller værger for at bruge Mobilhotellet.
+
+Brugen af Mobilhotellet kan i mange tilfælde ske som en del af skolens almindelige arbejde og pædagogiske aktiviteter, fx for at skabe mobilro og understøtte undervisningen. Her kan skolen behandle de nødvendige oplysninger uden samtykke, fordi det er en del af skolens opgaver.
+
+Det er dog altid skolens ansvar at vurdere, om samtykke er nødvendigt i jeres situation – fx hvis eleverne er under 16 år, eller hvis skolen vurderer, at det er en god idé som ekstra sikkerhed, fordi appen installeres på elevernes egne mobiltelefoner.
+
+Vi anbefaler derfor, at skolen gør sig nogle overvejelser om behovet for samtykke, men det er ikke et krav fra Mobilhotellet eller Pausium ApS. Hvis skolen ønsker at indhente samtykke, kan I bruge de blanketter, vi stiller til rådighed ovenfor.
 
 
 
