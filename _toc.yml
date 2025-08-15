@@ -45,5 +45,6 @@ parts:
           - file: pages/mobilhotellet-til-elev/dine-indstillinger
   - caption: Øvrige dokumenter
     chapters:
+      - file: pages/dokumenter/download-guide
       - file: pages/dokumenter/foraelder-vaerge-samtykke
       - file: pages/dokumenter/laereroprettelse
